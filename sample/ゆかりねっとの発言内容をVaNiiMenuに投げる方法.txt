@@ -1,0 +1,12 @@
+# ゆかりねっととVaNiiMenuを連携する
+
+## 事前準備
+
+* 「ゆかりねっと」と「VaNiiMenu」は導入/動作確認済みとする
+* 「VaNiiMenu」の「Communication.json」の「OSCReceive」を「true」にしておく
+
+## 手順
+
+1. 「sample」ディレクトリの「config.json」を「TextSendOSC.exe」と同じディレクトリに置く
+2. 「ゆかりねっと設定例」を参考に「ゆかりねっと」に外部プログラムフィルタを追加する
+3. VaNiiMenuのホーム画面に発言内容が表示される様になります

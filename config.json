@@ -1,0 +1,6 @@
+{
+	"host": "localhost",
+	"port": 12345,
+	"address": "/sample/edithere",
+	"isYukariNet": false
+}
